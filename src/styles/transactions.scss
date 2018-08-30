@@ -1,0 +1,23 @@
+.transactions {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f0f6fa;
+    height: 90vh;
+    border-radius: 20px 20px 0 0;
+    &__title {
+        text-align: center;
+        padding: 14px 0;
+        width: 100%;
+        background-color: white;
+        border-radius: 20px 20px 0 0;
+        font-family: sans-serif;
+        font-weight: 500;
+        letter-spacing: 1px;
+    }
+    &__content {
+        background-color: #f0f6fa;
+        overflow-y: scroll;
+        height: 90vh;
+    }
+}
