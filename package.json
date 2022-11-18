@@ -11,7 +11,7 @@
 		"react": "^16.4.2",
 		"react-dom": "^16.4.2",
 		"react-onclickoutside": "^6.7.1",
-		"react-scripts": "1.1.5",
+		"react-scripts": "5.0.1",
 		"webpack-dev-server": "^3.6.0"
 	},
 	"scripts": {
